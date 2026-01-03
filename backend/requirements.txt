@@ -1,0 +1,10 @@
+django>=5.2,<5.3
+djangorestframework
+django-cors-headers
+django-filter
+django-cloudinary-storage
+cloudinary
+djangorestframework-simplejwt
+stripe
+python-dotenv
+gunicorn
