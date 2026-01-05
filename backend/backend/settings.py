@@ -29,7 +29,7 @@ DEBUG = os.getenv('DEBUG', 'False') == 'True'
 
 ALLOWED_HOSTS = ["*"]
 
-
+# nothing
 # Application definition
 
 INSTALLED_APPS = [
