@@ -8,3 +8,5 @@ djangorestframework-simplejwt
 stripe
 python-dotenv
 gunicorn
+dj-database-url
+psycopg[binary]
