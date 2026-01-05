@@ -9,4 +9,5 @@ stripe
 python-dotenv
 gunicorn
 dj-database-url
-psycopg[binary]
+psycopg2-binary
+whitenoise
